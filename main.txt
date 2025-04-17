@@ -1,0 +1,1 @@
+Don't delete the main file on another branch
